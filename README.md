@@ -26,7 +26,7 @@ XOR can be applied to multi-line passwords by treating the entire password strin
 ### Encoding/Decoding:
 Ensure consistent encoding (e.g., UTF-8) when converting between strings and byte arrays. 
 
-Encrxpt/Decrypt Code:
+Encrypt/Decrypt Code:
 ```ruby
 function FileCrypt(Source : AnsiString; Destination : AnsiString; Cle : AnsiString):boolean;
 var
