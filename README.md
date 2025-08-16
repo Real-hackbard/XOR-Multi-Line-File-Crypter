@@ -12,7 +12,7 @@ The XORed result becomes the encrypted password.
 The encrypted password is XORed again with the same key, effectively reversing the process and restoring the original password.
 
 
-![XOR Multi Line File Crypter](https://github.com/user-attachments/assets/2946e1c1-330a-487e-a41a-25406c890f14)
+
 
 
 ### Key Length:
