@@ -1,5 +1,13 @@
 # XOR-Multi-Line-File-Crypter:
 
+```ruby
+Compiler    : Delphi10 Seattle, 10.1 Berlin, 10.2 Tokyo, 10.3 Rio, 10.4 Sydney, 11 Alexandria, 12 Athens
+Components  : None
+Discription : XOR File Crypter with Multi Line Password Text
+Last Update : 08/2025
+License     : Freeware
+```
+
 XOR encryption, particularly when applied to multi-line passwords, utilizes the XOR operation on each byte of the password and a corresponding key. This simple symmetric encryption method is often used in situations where quick and reversible encryption is needed, though it's not considered highly secure against sophisticated attacks.
 
 * Key Generation:
